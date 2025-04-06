@@ -1,1 +1,1 @@
-# Data Mining Educacional - Escolas Públicas da Bahia
+# Mineração de Dados Educacionais - Escolas Públicas da Bahia
