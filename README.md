@@ -1,1 +1,1 @@
-# Data-mining-Bahia
+# Data Mining Educacional - Escolas Públicas da Bahia
